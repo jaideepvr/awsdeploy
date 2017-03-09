@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appsettings>
+	<app key="S3Key" value="Test1" />
+</appsettings>
